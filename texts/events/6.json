@@ -1,0 +1,84 @@
+{
+    "title": "Krieg um Territorium",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Die endgültige Entscheidung über Situationen und Bestrafungen wird vom Hauptkurator der Banden getroffen. Erklärung: Jede Situation ist individuell, und es ist unmöglich, alle möglichen Bestrafungen in den Regelabschnitten zu beschreiben. Hinweis: Strafen können außerhalb des Regelwerks vergeben werden, sie müssen unparteiisch, unabhängig und fair vergeben werden.",
+                "Der Anführer hat das Recht, die Frostperiode von Captures zu Beginn seiner Amtszeit für 1-3 Tage zu nehmen. Ausnahme: Wenn der Anführer zu Beginn seiner Amtszeit keine Frostperiode genommen hat, kann er dies während seiner Amtszeit tun.",
+                "Captures dürfen von 14:00 bis 23:00 Uhr durchgeführt werden. Captures dürfen nur montags / mittwochs / freitags / sonntags durchgeführt werden. Ausnahme: Gegenseitige Zustimmung. Das Funktionieren des Captures kann mindestens 30 Minuten und maximal 60 Minuten vor seinem Beginn erfolgen.",
+                "Die zulässige Anzahl der Teilnehmer an einem Capture auf jeder Seite beträgt 8 bis 20. Hinweis: Es ist erlaubt, die zulässige Anzahl der Teilnehmer durch gegenseitige Zustimmung zu überschreiten.",
+                "Die Verteidigungsseite kann mit einer geringeren Anzahl erscheinen oder nicht zum Capture kommen.",
+                "Captures können mit feindlicher und neutraler Diplomatie mit einer anderen Bande durchgeführt werden.",
+                "Raids/Passagen sind verboten 30 Minuten vor einem Capture. Während des Captures ist es verboten, für die Fortbewegung/Dachbesetzung zu verwenden, sowie Positionen einzunehmen, die nach Beginn des Captures ohne externe Hilfe (mit Hilfe von Fahrzeugen, Gegenständen usw.) nicht erreicht werden können. | A-Jail 120 Minuten / A-Jail 180 Minuten. Ausnahme: Gegenseitige Zustimmung.",
+                "Während der Veranstaltung ist es verboten, schwer zugängliche Orte zu besetzen, die einen Vorteil verschaffen können. | A-Jail 120 Minuten / A-Jail 180 Minuten",
+                "Die Verwendung seltener Waffen/Gegenstände bei Captures ist nur mit gegenseitiger Zustimmung gestattet. Erklärung: Diese dürfen nicht im Laden gekauft/entwickelt/aus Veranstaltungen erhalten werden.",
+                "Jeder Teilnehmer muss eine Videoaufnahme vom Anfang bis zum Ende des Captures führen und sie innerhalb von 48 Stunden aufbewahren. Hinweis: Die Aufnahme muss über Nvidia Experience / Radeon Software oder andere Programme erfolgen, die den gesamten Desktop erfassen, nicht nur einzelne Anwendungen. Die Videoqualität muss mindestens 480p betragen und den Originalton enthalten.",
+                "Nach Entscheidung des Hauptkurators der Fraktionen ist die Administration berechtigt, einem Spieler bei Weigerung, eine Videoaufnahme vom Capture bei Verdacht auf die Verwendung von Drittanbieter-Software bereitzustellen, eine Blockierung zu erteilen. | Charakter Sperre für 30 Tage / Charakter Sperre für 60 Tage. Hinweis: Nach Entscheidung des Hauptkurators / GA/zGA. Die Verwendung von Texturen/Modifikationen/Skins, die einen zusätzlichen Vorteil bieten, gilt als Verwendung von Drittanbieter-Software.",
+                "Bei Verdacht auf die Verwendung von Drittanbieter-Software ist der Ghetto-Administrator berechtigt, innerhalb von 48 Stunden eine Videoaufnahme von bestimmten Spielern vom Capture anzufordern. | Charakter Sperre für 30 Tage. Hinweis: Wenn ein Spieler innerhalb von 24 Stunden keine Videoaufnahme bereitstellt, gilt dies als, dass der Spieler keine Videoaufnahme gemacht hat.",
+                "Eine Bande kann maximal 3 Angriffe und 3 Verteidigungen durchführen.",
+                "Die Angreiferseite muss die Verteidigerseite innerhalb von 5 Minuten nach dem funktionalen Besetzen im entsprechenden Discord-Kanal \"Collection of criminal fraction\" benachrichtigen.",
+                "Die Angreiferseite muss das Ergebnis und die Endzeit des Captures innerhalb von 5 Minuten nach dessen Abschluss melden. Erklärung: Das Ergebnis muss dieser Form entsprechen: \"Endzeit des Captures\", Sieg/Niederlage. Die Verlegung des Captures erfolgt unter obligatorischer Benachrichtigung der verteidigenden Seite im speziellen 'Discord'-Kanal.",
+                "Nach einem Capture erhält die Verteidigungsseite 30 Minuten Ruhezeit, um die Verteidigung anzunehmen, und die Angreiferseite eine Abklingzeit von 30 Minuten, um den nächsten Angriff zu starten.",
+                "Bei der Duplizierung von Informationen im speziellen 'Discord'-Kanal muss die angreifende Seite die folgenden Bedingungen angeben: Wer greift wen an; Zeitpunkt der Durchführung; Anzahl der Teilnehmer; Ergebnis; Bedingungen sowie den Tag der entsprechenden Diplomatie und die Rolle des Ghetto-Administrators.",
+                "Die endgültige Entscheidung über Strafen für Verstöße gegen die Regeln des Krieges um das Territorium trifft der Chefkurator der Struktur.",
+                "Die Übergabe des Territoriums erfolgt nach Ermessen des Chief Curators. In diese Liste können Verstöße wie Accountübergabe/Kauf/Verkauf, Umgehung von Sperren, Cheats aufgenommen werden.",
+                "Die Angreiferseite muss sich innerhalb von 3 Minuten nach der Anmeldung im Capture-Quadrat aufhalten.",
+                "Nach dem Eintreten der Verteidigung ist es der Angreiferseite untersagt, sich vom Feuergefecht zurückzuziehen. | Fraktions Verwarnung",
+                "Der gesamte Prozess muss auf Video aufgezeichnet werden. | Charakter Sperre für 30 Tage. Hinweis: Das Video muss den Originalton enthalten, eine Auflösung von mindestens 720p haben, die Teilnehmer müssen die Aufzeichnung 48 Stunden aufbewahren und sie auf erste Anforderung der Administration bereitstellen."
+            ]
+        },
+        {
+            "heading": "Territorien",
+            "items": [
+                "Die Capture-Zone ist das angrenzende Gebiet zum Capture-Quadrat.",
+                "Das Capture-Quadrat ist direkt die Aktivierungszone des Captures.",
+                "Die angreifende Seite muss sich im Capture-Quadrat aufhalten, bis eine feindliche Gruppe in der Capture-Zone entdeckt wird.",
+                "Im Krieg um das Territorium muss die Verteidigungsseite vor Ablauf des Timers vorgehen, um das Capture zu gewinnen.",
+                "Der Austausch von Territorien ist nur mit Zustimmung des Hauptkurators gestattet.",
+                "Der Verkauf/Kauf von Territorien ist nur mit Zustimmung des Hauptkurators gestattet.",
+                "Es ist erlaubt, einen Nichtangriffspakt für das gekaufte Territorium abzuschließen.",
+                "Die absichtliche Übertragung von Territorien an eine andere Bande, um den Kauf von Territorien zu umgehen, ist verboten.",
+                "Der Gewinner des Krieges um das Territorium ist die Seite, die basierend auf der Serverfunktionalität gewonnen hat."
+            ]
+        },
+        {
+            "heading": "Verbote",
+            "items": [
+                "Es ist verboten, das Spiel während eines Captures zu verlassen. | Warn. Hinweis: Wenn ein Teilnehmer versehentlich das Spiel verlassen hat, kann er zum Capture zurückkehren.",
+                "Es ist verboten, die Capture-Zone zu verlassen. | A-Jail 180 Minuten. Ausnahme: Es ist erforderlich, ein Hindernis oder ein Gebäude zu umrunden. Hinweis: Es ist verboten, absichtlich in der neutralen Zone zu bleiben.",
+                "Bei zahlreichen, wiederholten, absichtlichen Verstößen kann ein Spieler ein Verbot für die Teilnahme an der Veranstaltung erhalten.",
+                "Es ist verboten, Gegenstände, die von Gegnern fallen gelassen wurden, vor Ende der Veranstaltung aufzuheben. | A-Jail 120 Minuten",
+                "Jeder Bug-Exploit ist verboten. | Charakter Sperre 1-60 Tage",
+                "Der Eintritt/das Verweilen in Innenräumen ist verboten. | A-Jail 120 Minuten",
+                "Die Durchführung einer Veranstaltung während des Kriegsrechts auf dem Server ist verboten. | Fraktions Verwarnung",
+                "Die Verwendung von Heilmitteln/Drogen muss vollständig in Deckung stattfinden. | Warn. Hinweis: Von Anfang bis Ende der Animation. Ausnahme: Wenn eine Person den Feind schlecht sieht/nicht sieht und in diesem Moment Heilmittel/Drogen verwendet, wird dies als Verstoß betrachtet, aber es wird nicht bei der Rücknahme des Territoriums berücksichtigt.",
+                "Die Verwendung von Animationen und Gangarten ist verboten. | Warn",
+                "Capture-Teilnehmer müssen die Farben ihrer Bandenkleidung tragen. | A-Jail 180 Minuten & Warn. Hinweis: Die Oberbekleidung (Torso, Hemden, Jacken) muss vollständig der Farbe der Bande entsprechen.",
+                "Es ist verboten, mehr als 3 Personen mit der Rolle der Diplomatie im Kriminal-Discord zu haben. | Gespräch mit dem Anführer",
+                "Funktionales Schießen aus Deckungen ist verboten. | Charakter Sperre für 3-7 Tage",
+                "Das Betreten/Verlassen/Überqueren von Tunneln/U-Bahnen ist verboten. | A-Jail 120 Minuten & Warn"
+            ]
+        },
+        {
+            "heading": "Eroberung von Anwesen / Gebieten / Clubs",
+            "items": [
+                "Eroberung des Territoriums ist eine Möglichkeit, die Überlegenheit einer kriminellen Organisation gegenüber einer anderen zu zeigen, indem ihr Territorium durch Diebstahl von Geld und Materialien erobert wird.",
+                "Die Eroberung des Territoriums ist von 16:00 bis 23:00 Uhr MEZ gestattet.",
+                "Bei der Eroberung des Territoriums gelten die SpawnKill (SK)-Regeln nicht.",
+                "Die Eroberung des Territoriums erfolgt ausschließlich durch feindliche Diplomatie.",
+                "Für die Eroberung des Territoriums ist ein schwerwiegender In-Character-Grund erforderlich.",
+                "Die Eroberung des Territoriums muss vom Hauptkurator der kriminellen Organisation genehmigt werden. Hinweis: Ein schwerwiegender In-Character-Grund und ein Aktionsplan sind erforderlich.",
+                "Mindestanzahl der Teilnehmer - 10.",
+                "Der Angriff auf das Territorium des Familienanwesens / Bandenterritoriums muss unter Beteiligung des Anführers oder seines Stellvertreters erfolgen.",
+                "Die angreifende Seite muss mindestens 2 vollständige Videoaufnahmen des Angriffs haben. | Charakter Sperre für 30 Tage & Entzug des Gebiets",
+                "Die Eroberung des Territoriums erfolgt ausschließlich mit Fraktionsfahrzeugen.",
+                "Es ist verboten, absichtlich Ressourcen aus dem Fraktionslager während eines Angriffs zu entfernen. | Fraktions Verwarnung",
+                "Bei erfolgreicher Eroberung des Territoriums kann die erobernde Seite 1/4 des Lagers (Geld, Materialien) beanspruchen.",
+                "Es ist verboten, das feindliche Anwesen / Gebiet / den Club länger als 20 Minuten zu halten. | Fraktions Verwarnung. Hinweis: Die Zeitzählung beginnt ab dem Zeitpunkt des Betretens des feindlichen Territoriums. Ausnahme: Bei gegenseitiger Zustimmung der Anführer.",
+                "Es ist erlaubt, den stellvertretenden Anführer / Anführer als Geisel zu nehmen und Lösegeld für sie zu verlangen.",
+                "Die Eroberung des Territoriums 60 Minuten vor dem Capture ist verboten. | Warn & Entzug des Gebiets"
+            ]
+        }
+    ]
+}

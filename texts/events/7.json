@@ -1,0 +1,37 @@
+{
+    "title": "Frachtkrieg",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Der Kampf um die Fracht ist eine Veranstaltung, bei der Banden/Familien um wertvolle Fracht kämpfen (Fracht wird 15 Minuten nach ihrem Erscheinen auf der Karte geöffnet).",
+                "Nur Spieler von Banden und Familien dürfen am Frachtkampf teilnehmen. Hinweis: Fracht-Reset-Zeiten für Banden: 12:00, 14:00, 16:00, 18:00, 20:00, 22:00, 00:00. Fracht-Reset-Zeiten für Familien: 14:30, 15:30, 17:30, 18:30, 19:30, 21:30.",
+                "Kriminelle Organisationen müssen auf dem Gebiet des Frachtkampfes bei jedem Kontakt mit dem Feind das Feuer eröffnen. | Mündliche Verwarnung / A-Jail 120 Minuten / A-Jail 180 Minuten / Warn. Hinweis: Absprachen zum friedlichen Verteilen der Frachtkampfbelohnung sind verboten.",
+                "Auf dem Frachtgebiet gelten alle Serverregeln. Ausnahme: DM in der Zone, PG.",
+                "Es ist untersagt, den Weg zur Fracht auf jede verfügbare Weise zu blockieren. | A-Jail 120 Minuten & Gespräch mit dem Anführer.",
+                "Jegliche Allianzen sind verboten.",
+                "Das Bewegen auf Transportmitteln im Frachtbereich ist untersagt. | A-Jail 120 Minuten / A-Jail 180 Minuten.",
+                "Es ist verboten, absichtlich aus dem Schusswechsel auszusteigen oder auf dem Veranstaltungsgebiet untätig zu bleiben. | A-Jail 180 Minuten.",
+                "Das Aufheben von Gegenständen auf dem Frachtgelände nach ihrem Abschluss ist nur der siegreichen Fraktion gestattet. | A-Jail 120 Minuten & Warn. Hinweis: Falls deine Organisation nicht am eigentlichen Ereignis teilgenommen hat, ist das Aufheben von Gegenständen ebenfalls verboten.",
+                "Die Teilnahme am Frachtkampf bei funktionierender Wartezeit (Cooldown) ist untersagt.",
+                "Die Verwendung von Schutzwesten der staatlichen Fraktionen ist untersagt. | A-Jail 180 Minuten.",
+                "Das Betreten des Wassers ist verboten. | Warn.",
+                "Das Besetzen von Bergen, Dächern und Konstruktionen ist verboten. | A-Jail 120-180 Minuten.",
+                "Den Spielern in der Zone ist es untersagt, auf Personen zu schießen, die sich in einem Fahrzeug befinden. | A-Jail 120 Minuten. Ausnahme: Spieler sind auf dem Veranstaltungsgelände 'Kampf um die Fracht' eingetreten.",
+                "Der Schusswechsel von außerhalb der Zone gegen Feinde innerhalb und umgekehrt ist erlaubt."
+            ]
+        },
+        {
+            "heading": "Regeln für kriminelle Organisationen",
+            "items": [
+                "Die Verwendung von Heilung und Handschellen im Kampf ist verboten. | A-Jail 180 Minuten & Warn.",
+                "Die Übertragung / das Spielen für mehrere Fraktionen/Familien während des Frachtkampfes ist verboten. | Charakter Sperre für 14 Tage.",
+                "Das absichtliche Verlassen des Spiels während des Frachtkampfes ist verboten. | Warn.",
+                "Das Aufheben von Gegenständen von der Fracht vor deren Abschluss ist verboten. | A-Jail 120 Minuten / A-Jail 180 Minuten / Warn.",
+                "Die Verwendung jeglicher Animationen ist verboten. | A-Jail 180 Minuten & Warn.",
+                "Die Mitglieder einer bestimmten Bande / Familie müssen einheitliche Kleidung aus dem Kleiderschrank der Organisation tragen. | Warn. Ausnahme: Männer und Frauen können aufgrund der Spielmechanik unterschiedliche Outfits haben.",
+                "Wenn ein Spieler Mitglied einer staatlichen Organisation ist, aber auch Mitglied einer Familie ist, darf er keine Fraktionsausrüstung verwenden, die er im Dienst erhalten hat. | Charakter Sperre 30 Tage (Anfang von Warehousing)."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Kriminelle Organisationsregeln",
+    "sections": [
+        {
+            "heading": "<span style='color: red;'>Allgemeine Regeln</span>",
+            "items": [
+                "Jedes Mitglied einer kriminellen Organisation / Familie muss den Dresscode seiner Organisation bei kriminellen Handlungen sowie bei allen Veranstaltungen (einschließlich funktionaler) beachten. | A-Jail 120 Minuten / A-Jail 180 Minuten",
+                "Ergänzung: Schutzwesten und andere Accessoires gelten nicht als Oberbekleidung.",
+                "Bündnis- und feindliche Konflikte erfolgen ausschließlich durch IC-Mittel.",
+                "Krieg gegen eine andere kriminelle Organisation darf nur aus schwerwiegenden IC-Gründen erklärt werden. | Fraktions Verwarnung",
+                "Bei Beendigung des Bündnisses ist es untersagt, innerhalb von 24 Stunden Krieg gegen diese Organisation zu erklären. | Fraktions Verwarnung",
+                "Rekrutierungen in der Organisation erfolgen ausschließlich auf dem Gebiet der Organisation. | Mündliche Verwarnung / A-Jail 30 Minuten für den Recruiter",
+                "Hinweis: Bereich in der Nähe des Rückkehrpunkts.",
+                "Liste der Gründe für den direkten Rauswurf:",
+                "- Entfachen von Konflikten innerhalb der Fraktion",
+                "- Verstoß gegen die Serverregeln",
+                "- Lang anhaltende Inaktivität",
+                "- Anti-Fraktionsbewegung",
+                "Das Leaken von Lager/Mitgliedern ist verboten. | A-Jail 120 Minuten",
+                "Es ist verboten, ein Bündnis mit einer feindlichen Bande einzugehen. | Fraktions Verwarnung",
+                "Hinweis: Bei einer Änderung der Diplomatie von feindlich auf neutral ist es untersagt, innerhalb von 24 Stunden eine Allianz einzugehen.",
+                "Bei einem 3. Frakwarn wird die Fraktion automatisch aufgelöst."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Territorien krimineller Organisationen</span>",
+            "items": [
+                "Das Territorium einer kriminellen Organisation gilt im RP als dicht besiedeltes Gebiet von Kriminellen.",
+                "Die Mindestanzahl von Personen, die das Territorium der anderen Organisation betreten dürfen, beträgt 10. | Mündliche Verwarnung",
+                "Hinweis: Nur zur Lösung diplomatischer / handelsbezogener Beziehungen.",
+                "Während RP-Gesprächen sind provokative und aggressive Handlungen untersagt.",
+                "Hinweis: Die Seite, die sich auf ihrem Territorium befindet, darf während eines RP-Gesprächs nicht provozieren / beleidigen. Die Seite, die sich auf feindlichem Territorium befindet, darf kein Feuer eröffnen; die Strafe erfolgt wie bei SK. | A-Jail 180 Minuten / Warn",
+                "Es ist erlaubt, auf dem Territorium des Rückkehrpunkts das Feuer ohne Vorwarnung gegen Mitarbeiter staatlicher Organisationen zu eröffnen.",
+                "Es ist verboten, bei einer Verfolgung oder Schießerei auf das Territorium der kriminellen Organisationen zu flüchten. | A-Jail 180 Minuten / Warn"
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Drive By</span>",
+            "items": [
+                "Drive By ist eine Methode der Vergeltung zwischen Banden. Diese Veranstaltung findet folgendermaßen statt: Die Bande bildet einen Autokorso und fährt auf das Territorium der feindlichen Bande, wobei sie das Recht hat, alle anwesenden Personen zu erschießen.",
+                "Drive By ist nur von 16:00 bis 23:00 Uhr erlaubt.",
+                "Drive By ist nur im Rahmen feindlicher Konflikte zwischen Banden erlaubt.",
+                "Nur die Leaderschaft kann ein Drive By organisieren. | Fraktions Verwarnung",
+                "Es ist erlaubt, eine unbegrenzte Anzahl von Drive Bys durchzuführen, jedoch nicht mehr als einmal pro Tag für eine Bande. | Fraktions Verwarnung",
+                "Folgende Voraussetzungen gelten:",
+                "- Es sind mindestens 5 Fahrzeuge",
+                "- Mindestens 10 Teilnehmer",
+                "- pro Fahrzeug mindestens 2 Personen",
+                "Die Verwendung von Gegenständen zur Wiederherstellung von Gesundheit und das Wechseln von Schutzwesten sind verboten. | A-Jail 120 Minuten",
+                "Es ist verboten während dem Drive By anzuhalten oder auszusteigen. | A-Jail 120-180 Minuten / Warn",
+                "Die Regeln für Spawn Kill (SK) gelten nicht beim Durchführen eines Drive Bys."
+            ]
+        }
+    ]
+}

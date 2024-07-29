@@ -1,0 +1,38 @@
+{
+    "title": "Ladenraub",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Beim Ladenraub gelten alle gängigen Serverregeln.",
+                "Die Mindestanzahl an Spielern auf dem Server, um ein Geschäft auszurauben, beträgt 60. | A-Jail 120 Minuten",
+                "Spieler, die sich nicht in einer kriminellen Organisation/Familie befinden, ist es untersagt, sich längere Zeit in der Nähe des Tatorts aufzuhalten. | Mündliche Verwarnung / A-Jail 60 Minuten",
+                "Das Blockieren der Eingänge/Ausgänge des Unternehmens mit Fahrzeugen ist verboten. | Warn",
+                "Wenn ein Unternehmen mit Beteiligung einer Geisel überfallen wird, gelten alle Regeln für Entführung und Überfall.",
+                "Es ist verboten, die Dienste des Unternehmens während des Überfalls/der Verteidigung in Anspruch zu nehmen."
+            ]
+        },
+        {
+            "heading": "Regeln für kriminelle Organisationen/Familien",
+            "items": [
+                "Die Teilnehmerzahl liegt zwischen 5 und 35.",
+                "Wenn kriminelle Organisationen/Familien auf dem Gelände eines Unternehmens aufeinandertreffen, müssen sie einen Schusswechsel beginnen. | Fraktions Verwarnung",
+                "Es ist verboten ein Geschäft mit einem Bündnis auszurauben. | Fraktions Verwarnung",
+                "Es ist verboten, nach Beginn des Schusswechsels zu fliehen. | A-Jail 120 Minuten & Gespräch mit dem Leader",
+                "Das Rufen von Verstärkung ist erlaubt, jedoch darf die Gesamtzahl der Teilnehmer 35 nicht überschreiten.",
+                "Es ist gestattet, höchstens 1 Person als Geisel zu halten. | Fraktions Verwarnung & Gespräch mit dem Leader",
+                "Das Halten einer Geisel ist für mehr als 20 Minuten verboten. | Mündliche Verwarnung",
+                "Die Anfahrt zum Unternehmen kann mit Fraktions-/Privatfahrzeugen erfolgen, die in der Farbe der Fraktion/Familie lackiert sind.",
+                "Es ist verboten, sich während der Verfolgungsjagd auf das eigene Gebiet zu begeben. | Warn",
+                "Ausnahme: Man befindet sich direkt vor dem Gebiet."
+            ]
+        },
+        {
+            "heading": "Regeln für staatliche Organisationen",
+            "items": [
+                "Das Teilnehmen an Überfällen mit weniger als 2 Personen ist verboten. | Fraktions Verwarnung",
+                "Das Kommen zu Überfällen mit privatem Transport ist verboten. | Fraktions Verwarnung"
+            ]
+        }
+    ]
+}

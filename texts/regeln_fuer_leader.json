@@ -1,0 +1,34 @@
+{
+    "title": "Regeln für Leader",
+    "sections": [
+        {
+            "heading": "<span style='color: blue;'>Allgemeine Regeln</span>",
+            "items": [
+                "1.1 Es ist dem Leader verboten, das Lager und das Fraktionskonto für den persönlichen Zweck zu nutzen. | 30 Tage Ban",
+                "1.2 Die Amtszeit eines Anführers beträgt einen Monat (30 Tage) und für den Anführer der Regierung 45 Tage. Die Leaderschaft kann bis zu 3x in Folge verlängert werden.",
+                "1.3 Wenn der Leader seinen Verpflichtungen nicht nachkommt, wird er durch Erhalt eines Banns für 5 Tage abgesetzt.",
+                "1.4 Ein Leader kann durch eine RP-Untersuchung oder einen Staatsstreich abgesetzt werden, in diesem Fall werden keine Sanktionen gegen ihn verhängt.",
+                "1.5 Ein Leader darf nicht mehr als 3 Stellvertreter haben. Ausnahme: Der Regierungsführer darf nur einen Stellvertreter ernennen.",
+                "1.6 Innerhalb der ersten 24 Stunden nach der Ernennung des Leaders hat er das Recht, einer Person jeden Rang zuzuweisen. Hinweis: Der 'Tag der Beförderungen' gilt nur für die erste Amtszeit. Ausnahme: Genehmigung des Hauptkurators."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Pflichten des Leaders</span>",
+            "items": [
+                "2.1 Einhaltung der Serverregeln durch seine Fraktion. | Mündliche Verwarnung / Fraktions Warn",
+                "2.2 Mindestens 4 Stunden tägliche Online-Zeit einhalten. | Mündliche Verwarnung",
+                "2.3 Am Ende der Amtszeit muss der Anführer einen Mindestbetrag auf dem Fraktionskonto belassen: Geld - 400.000 $, Lager - 50% des ursprünglichen Lagers. (ausgenommen Staatsfraktionen)",
+                "2.4 Nach Ermessen des Hauptkurators kann die Fraktion teilweise oder vollständig eingefroren werden.",
+                "2.5 Mindestens 1 Event pro Woche durchführen. | Mündliche Verwarnung / Fraktions Warn Ausnahme: Genehmigung des Hauptkurators der Fraktionen."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Verboten für Leader</span>",
+            "items": [
+                "3.1 Auf anderen GTA 5 RP-Projekten eine Leitungs/Team Position haben. | Mündliche Verwarnung / Fraktions Warn",
+                "3.2 Jede nonRP-Bewegung in der Fraktion. | Fraktions Warn",
+                "3.3 Grobe, herabsetzende / beleidigende Äußerungen gegenüber anderen Spielern / Administratoren. | Fraktions Warn / Charakter Sperre für 3-7 Tage"
+            ]
+        }
+    ]
+}

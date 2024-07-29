@@ -1,0 +1,39 @@
+{
+    "title": "Hafenraub",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "1.1 Bei einem Hafenraub gelten alle gängigen Serverregeln.",
+                "1.2 Es ist verboten, Autos so zu platzieren, dass sie 'Korridore' oder 'Labyrinthe' bilden, die die Bewegung einer der Parteien behindern. | A-Jail 120 Minuten & Gespräch mit dem Anführer",
+                "1.3 Es ist verboten, das Spiel während eines Hafenraubs zu verlassen. | Warn Ausnahme: Wenn ein Teilnehmer das Spiel unbeabsichtigt verlässt, muss er über einen Videobeweis verfügen.",
+                "1.4 Der Überfall auf den Hafen findet ausschließlich an geraden Tagen im Monat (2., 4., 6. usw.) von 17:00 bis 22:00 Uhr statt.",
+                "1.5 Es ist verboten, die Veranstaltung absichtlich hinauszuzögern. Es ist verboten, aus der funktionalen Grünzone zu schießen. | Fraktions Verwarnung & A-Jail 180 Minuten",
+                "1.6 Spielern, die nicht Mitglieder der Nationalgarde/Banden sind, ist es untersagt, sich in den Überfall auf den Militärhafen einzumischen. | Fraktions Verwarnung & Warn",
+                "1.7 Die Bande ist verpflichtet, ihren Kurator mindestens eine Stunde vor Beginn des Raubüberfalls zu benachrichtigen. | Fraktions Verwarnung",
+                "1.8 Den Mitarbeitern der oben genannten staatlichen Einrichtungen ist es bis zum Ende des Überfalls untersagt, die Fahrzeuge, in denen die Teilnehmer der Veranstaltung ankamen, zu evakuieren. | A-Jail 120 Minuten"
+            ]
+        },
+        {
+            "heading": "Regeln für kriminelle Organisationen",
+            "items": [
+                "2.1 Die Mindestanzahl der Räuber beträgt 15 Personen.",
+                "2.2 Teilnehmer des Raubüberfalls müssen Masken tragen. | A-Jail 30 Minuten",
+                "2.3 Die Kleidung der Räuber muss zu 50 % aus der Farbe der Fraktion bestehen. | A-Jail 60-120 Minuten / A-Jail 180 Minuten",
+                "2.4 Es ist verboten, sich während der Verfolgungsjagd in den Bezirk der Fraktion zu begeben. | A-Jail 180 Minuten & Warn",
+                "2.5 Raubüberfälle können in Fraktions-/Privatfahrzeugen durchgeführt werden, die in der Farbe der Fraktion lackiert sind.",
+                "2.6 Es ist verboten, das Stadion nach Beginn des Shootouts zu verlassen. | A-Jail 120 Minuten",
+                "2.7 Banden, die nicht an dieser Aktivität teilnehmen, ist es untersagt, sich in den Raub des Hafens einzumischen. | Fraktions Verwarnung & Gespräch mit dem Anführer"
+            ]
+        },
+        {
+            "heading": "Regeln für Behörden",
+            "items": [
+                "3.1 Es ist verboten, das Feuer ohne RP-Dialog mit den Räubern zu eröffnen. | Fraktions Verwarnung",
+                "3.2 Die Mindestanzahl der Mitarbeiter, die an einem Raubüberfall teilnehmen, beträgt 8.",
+                "3.3 Es ist verboten, mit privaten Verkehrsmitteln zum Überfall auf den Hafen zu kommen. | A-Jail 120 Minuten / A-Jail 180 Minuten",
+                "3.4 Es ist verboten, die Räuber an ihrem HQ oder im Hafengebiet abzucampen. | Warn"
+            ]
+        }
+    ]
+}

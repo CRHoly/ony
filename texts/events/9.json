@@ -1,0 +1,53 @@
+{
+    "title": "Fort Zancudo",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Angriffe sind nur an ungeraden Tagen im Monat (1, 3, 5 usw.) von 17:00 bis 22:00 Uhr erlaubt. Die allgemeinen Serverregeln gelten während des Events.",
+                "Die Verwendung von Scharfschützengewehren und Tasern ist verboten. | A-Jail 120 Minuten / A-Jail 180 Minuten / Warn.",
+                "Es ist verboten, Positionen einzunehmen, die ohne Luftfahrzeuge nicht erreichbar sind. | A-Jail 120 Minuten.",
+                "Es ist verboten, feindliche Lieferwagen (Speedo/Bobcat/Guardian) absichtlich zu zerstören, jedoch das Verhindern des Entkommens durch Beschädigung ist erlaubt.",
+                "Es ist verboten, aus Fahrzeugen zu schießen. | A-Jail 120 Minuten / A-Jail 180 Minuten."
+            ]
+        },
+        {
+            "heading": "Regeln für die Nationalgarde",
+            "items": [
+                "Es ist verboten, nach dem Tod aus dem Lazarett zu treten (RK). | Warn.",
+                "Die Vorbereitung auf das Event im Voraus ist untersagt. | Mündliche Verwarnung / Fraktions Verwarnung. Ausnahme: IC-Informationen von anderen Mitarbeitern staatlicher Fraktionen.",
+                "Die Unterstützung anderer staatlicher Strukturen kann bei Informationen über einen Angriff angefordert werden.",
+                "Es ist verboten, undurchdringliche Labyrinthe/Schlangen aus Fahrzeugen zu bauen, \"Tunnel\" aus Technik zu bauen. | A-Jail 120 Minuten & Gespräch mit dem Anführer.",
+                "Es ist verboten, aus dem Tower, Bunker, Lazarett, Lagergebäude, Umkleidekabinen, den Kasernen sowie jedem geschlossenen Interieur auf dem Gebiet von Fort Zancudo zu schießen. | Warn. Ausnahme: Gegenfeuer. Das Interieur muss aber schnellstmöglich verlassen werden.",
+                "Das Wiederbeleben ist während des Events grundsätzlich erlaubt, jedoch nicht in einem Schussgefecht. Das gleiche gilt für Heilen, nicht erlaubt während eines aktiven Schussgefechts. | A-Jail 120 Minuten."
+            ]
+        },
+        {
+            "heading": "Regeln für staatliche Fraktionen",
+            "items": [
+                "Die anderen staatlichen Fraktionen dürfen nur nach einer Meldung der Nationalgarde in /dep Verstärkung leisten. | Mündliche Verwarnung.",
+                "Die Unterstützung anderer staatlicher Strukturen kann bei Informationen über einen Angriff angefordert werden. Jedoch mit der Begrenzung von 25 Mann. Hinweis: Hilfe kann von Mitarbeitern der FIB, LSPD, LSCSD geleistet werden.",
+                "Das Blockieren von Nord- und Südtor ist verboten. | A-Jail 120 Minuten / A-Jail 180 Minuten / Warn. Erläuterung: Es ist erlaubt, Fraktionstransportmittel als Barrikaden und Deckung zu verwenden.",
+                "Die Verwendung von Handschellen ist verboten. | Warn. Ausnahme: Nach einem Angriff auf das Gebiet von Fort Zancudo dürfen maximal 5 Spieler zur weiteren Befragung festgehalten werden.",
+                "Die Verwendung von Lieferwagen krimineller Organisationen ist verboten. | Fraktions Verwarnung."
+            ]
+        },
+        {
+            "heading": "Regeln für kriminelle Fraktionen",
+            "items": [
+                "Es ist verboten, sich als Spieler, der nicht Teil einer kriminellen Fraktion/Familie ist, auszugeben. | Warn.",
+                "Es ist 1 IC-Bündnis erlaubt.",
+                "Die Mindestteilnehmerzahl beträgt 15 Personen.",
+                "Die maximale Teilnehmerzahl beträgt 25 Personen.",
+                "Die Zufahrt zum Gebiet von Fort Zancudo ist nur mit Fraktionstransport oder privatem Transport gestattet, der in der Farbe der Fraktion lackiert ist. | A-Jail 120 Minuten.",
+                "Die maximale Anzahl der verfügbaren Angriffe einer Fraktion/Familie beträgt (1) pro Tag. | Fraktions Verwarnung.",
+                "Das Eindringen auf das Gebiet der Militärbasis ist nur über Nord- oder Südtor erlaubt. | A-Jail 180 Minuten & Warn.",
+                "Bei Zusammenstößen mehrerer krimineller Fraktionen/Familien auf dem Gebiet von Fort Zancudo müssen sie einen Schusswechsel beginnen. | Fraktions Verwarnung.",
+                "Die Verwendung von Kabelbindern ist verboten. | Warn.",
+                "Raubüberfälle/Kidnapping sind verboten. | Warn.",
+                "Es ist verboten, bei einem Angriff auf das Gebiet von Fort Zancudo absichtlich untätig zu sein. | A-Jail 180 Minuten / Warn. Erläuterung: Untätigkeit wird als langes Verweilen auf Fort Zancudo nach dem Laden von Materialien, dem Erobern von Punkten für Schießereien usw. betrachtet.",
+                "Es ist verboten, den Tower, Bunker, Lazarett, Lagergebäude, Umkleidekabine, die Kasernen sowie jedes geschlossene Gebäude zu betreten, diese abzucampen, zu versperren sowie zu schießen. | Warn & ggf. eine Fraktions Verwarnung. Ausnahme: Gegenfeuer. Das Interieur muss aber schnellstmöglich verlassen werden."
+            ]
+        }
+    ]
+}

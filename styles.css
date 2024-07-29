@@ -1,0 +1,79 @@
+/* styles.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #333;
+    color: #fff;
+}
+
+.header {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+    padding: 20px;
+    background-color: #444;
+}
+
+.tabs {
+    display: flex;
+    justify-content: center;
+    background-color: #555;
+}
+
+.tab {
+    padding: 15px 30px;
+    cursor: pointer;
+    background-color: #666;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.tab:hover {
+    background-color: #777;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.text-container {
+    padding: 20px;
+    background-color: #444;
+    border-radius: 5px;
+    text-align: left;
+    max-width: 2200px;
+    margin: 0 auto;
+}
+
+/* Event-Regeln */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr); /* 3 Spalten */
+    gap: 20px; /* Abstand zwischen den Grid-Elementen */
+    justify-content: center; /* Zentriert die Container im Grid */
+    max-width: 6000px; /* Maximale Breite der Grid-Container */
+    margin: 0 auto; /* Zentriert den Grid-Container */
+}
+
+/* Breite für die Grid-Items festlegen */
+.grid-item {
+    background-color: #555; /* Dunklere Hintergrundfarbe */
+    border: 1px solid #444; /* Dunklere Rahmenfarbe */
+    padding: 20px; /* Etwas mehr Innenabstand */
+    text-align: left; /* Text linksbündig */
+    border-radius: 8px; /* Leicht abgerundete Ecken */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Stärkerer Schatten */
+    width: 600px; /* Feste Breite der Container */
+    box-sizing: border-box; /* Einschließen von Padding und Border in die Breite */
+}
+
+/* Füge eine Media Query hinzu, um das Layout bei kleinerem Bildschirm anzupassen */
+@media (max-width: 1200px) {
+    .grid-item {
+        width: 250px; /* Kleinere Breite bei kleinen Bildschirmen */
+    }
+}

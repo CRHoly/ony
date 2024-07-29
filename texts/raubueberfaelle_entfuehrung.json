@@ -1,0 +1,91 @@
+{
+    "title": "Raubüberfälle und Entführung",
+    "sections": [
+        {
+            "heading": "<span style='color: green;'>Allgemeine Regeln</span>",
+            "items": [
+                "Bei Entführungen/Raubüberfällen ist darauf zu achten, sich an die Regeln der Spielzonen zu halten.",
+                "Alle Entführungen/Raubüberfälle von kriminellen Organisationen können mit Fraktions-/persönlichem Fahrzeug durchgeführt werden, das in der Fraktionsfarbe lackiert ist.",
+                "Es ist untersagt, Entführungen/Raubüberfälle in Innenräumen durchzuführen. | <span style='color: red;'>Mündliche Verwarnung</span>",
+                "Es ist untersagt, mehr als 4 Personen gleichzeitig zu entführen/zu überfallen. | <span style='color: red;'>A-Jail 120 Minuten / A-Jail 180 Minuten / Warn</span>",
+                "Die Anzahl der Räuber/Entführer muss doppelt so hoch sein wie die der Opfer.",
+                "Es ist untersagt, zu überfallen/zu entführen, ohne Schuss-/Stichwaffen zu haben. | <span style='color: red;'>Warn</span>",
+                "Es ist untersagt, das Opfer ohne IC-Grund zu töten. | <span style='color: red;'>Regel \"DM\"</span>",
+                "Gründe für einen Mord können sein: Beleidigung, Flucht, Identifizierung eines Verbrechers, Versuch, durch Bestrafung zu erschrecken, Verstoß gegen die PG-Regeln.",
+                "Raubüberfälle müssen gemäß allen Serverregeln und mit allen Rollenspielaspekten erfolgen.",
+                "Es ist untersagt, Mitarbeiter von Spezialeinheiten (Taxi/EMS/Sicherheitskräfte usw.) zu rufen, Weazel News-Anzeigen zu schalten, um anschließend einen Überfall durchzuführen. | <span style='color: red;'>Warn & Fraktions Verwarnung</span>",
+                "Dem Opfer eines Raubüberfalls/Entführung ist es untersagt, während einer RP-Situation das Spiel zu verlassen. | <span style='color: red;'>Warn</span>",
+                "Dem Opfer eines Raubüberfalls/Entführung ist es untersagt, OOC-Kommunikationsmittel zu verwenden, um Verstärkung herbeizurufen oder die andere Seite zu informieren. | <span style='color: red;'>Regel \"MG\"</span>",
+                "Es ist untersagt, das Opfer auf grobe Weise zu erniedrigen. | <span style='color: red;'>Gespräch mit allen Beteiligten & Charakter Sperre für 3-7 Tage</span>"
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Raubüberfälle</span>",
+            "items": [
+                "Es ist untersagt, die Übertragung von Immobilien/Fahrzeugen/Geldern vom Bankkonto/Kleidung zu verlangen.",
+                "Bei Raubüberfällen durch eine Gruppe erfolgt der Überfall nur durch eine Person, wiederholte Überfälle sind untersagt.",
+                "Die Mindestanzahl der Räuber bei einem Raubüberfall beträgt 2 Personen.",
+                "Die Mindestanzahl der Räuber, um ein Fahrzeug zu stoppen, beträgt 4 Personen und 2 Fahrzeuge.",
+                "Der Raub an einem PKW mit dem Motorrad erfolgt mit mindestens 4 Personen und 2 Motorrädern.",
+                "Es ist untersagt, einen schwer verletzten Menschen zu überfallen.",
+                "Es ist erlaubt, den getragenen Schutzwesten des Opfers durch RP abzuschneiden /try (2 Versuche pro Opfer).",
+                "Es ist untersagt, Arbeiter zu überfallen. Dazu gehört Weazel News und Medics."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Entführungen</span>",
+            "items": [
+                "Die Mindestanzahl der Entführer beträgt 4.",
+                "Es ist verboten, das Opfer an einem Respawn-Punkt jeder Fraktion festzuhalten.",
+                "Es ist erlaubt, Lösegeld für den Anführer/Stellvertreter einer Fraktion zu verlangen. Lösegeld kann unter mehreren Kriterien gefordert werden: Geld, Waffen",
+                "Maximales Lösegeld für einen Geiselnehmer beträgt 20.000$.",
+                "Maximales Lösegeld für den Anführer/Stellvertreter einer Fraktion beträgt 80.000$.",
+                "Maximales Lösegeld in Form von Waffen/Spezialausrüstung für den Anführer/Stellvertreter einer Fraktion:",
+                "Anführer/Stellvertreter LSPD/LSSD - 2 / 1 M14 EBR oder 20 / 10 Schutzwesten.",
+                "Anführer/Stellvertreter SANG - 3 HK-416 / 2 QBZ-95 oder 20 / 10 Schutzwesten.",
+                "Anführer/Stellvertreter Government - 4 / 2 MP5K oder 400.000$ / 200.000$ oder 50 Schutzwesten / 25 Schutzwesten.",
+                "Anführer/Stellvertreter FIB - 2 / 1 AWM L115A3 oder 30 Schutzwesten / 15 Schutzwesten.",
+                "Anführer/Stellvertreter einer Gang - 10 / 5 Taurus Raging Bull und ein Gebiet.",
+                "Anführer/Stellvertreter einer Familie 4. Grades - 2 / 1 Saiga 12K und ein Geschäft.",
+                "Hinweis: Der Anführer/Stellvertreter einer kriminellen Organisation wird für die staatlichen Organisationen als normaler Zivilist gewertet. Das maximale Lösegeld beträgt daher 20.000$.",
+                "Sollte die Entführerseite jedoch das maximale Lösegeld für Anführer/Stellvertreter der kriminellen Organisationen wollen, so muss dies von der kriminellen Gegenseite erpresst werden.",
+                "Der gesamte Entführungsprozess muss auf Video aufgezeichnet werden.",
+                "Bei Entführungen ist es erlaubt, dem Opfer Waffen im RP bis zum Ende der Situation zu entnehmen.",
+                "Nach Erhalt des Lösegelds für die Geisel muss diese innerhalb von 5 Minuten freigelassen werden.",
+                "Es ist verboten, einen Verhandlungsführer als Geisel zu nehmen. Es ist verboten, von einem Anführer/Stellvertreter zu verlangen, die Rolle des Verhandlungsführers zu übernehmen.",
+                "Es ist verboten, Entführungen zwischen 02:00 und 12:00 Uhr durchzuführen.",
+                "Es ist verboten, das Opfer länger als 60 Minuten festzuhalten, wenn die Entführung kein finanzielles Ziel (Lösegeld) hat.",
+                "Jede Fraktion darf nur zwei Entführungen pro Tag (24 Stunden) durchführen.",
+                "Die Gegenseite hat das Recht, sich einmal von der Integrität und Anzahl der Geiseln zu überzeugen.",
+                "Es ist verboten, Entführungen absichtlich zu verzögern."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Regeln für das Opfer</span>",
+            "items": [
+                "Es ist verboten, die PG-Regel zu brechen. | <span style='color: red;'>Regel \"PG\"</span>",
+                "Autofahrern ist es verboten, weiterzufahren, wenn die Straße vollständig blockiert ist. | <span style='color: red;'>A-Jail 120-180 Minuten</span>",
+                "Wenn auf das Auto für eine längere Zeit geschossen wurde und die Räuber deutlich zahlreicher sind als im verfolgten Auto, muss der Fahrer anhalten. | <span style='color: red;'>Regel \"PG\"</span>",
+                "Das Opfer muss alle Emotionen darstellen, die in dieser Situation jedem Menschen eigen sind (Angst, Unruhe usw.). | <span style='color: red;'>A-Jail 120 Minuten / A-Jail 180 Minuten / Warn</span>",
+                "Es ist verboten, sich vor einer Entführung in Innenräumen, Wasser oder grünen Zonen zu verstecken. | <span style='color: red;'>Warn</span>",
+                "Wenn der Anführer oder Stellvertreter einer Fraktion entführt wurde, muss er die gesamte Videoaufzeichnung in mind. 720p seit dem Zeitpunkt der Entführung führen und diese für 48 Stunden aufbewahren. | <span style='color: red;'>Fraktions Verwarnung</span>"
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Regeln für die erpressende Seite</span>",
+            "items": [
+                "Die erpressende Seite muss alle Anforderungen der Entführer erfüllen (Lösegeld bereitstellen, die Möglichkeit zum Rückzug usw.)",
+                "Der Angriff darf nur gestartet werden, wenn der Geisel nichts droht.",
+                "Der Angriff ist erlaubt, wenn die Forderungen der Entführer unangemessen sind. Liste der unangemessenen Forderungen:",
+                "Wenn die Entführer mehr Lösegeld verlangen, als die Regeln erlauben.",
+                "Wenn die Entführer eine Forderung gestellt haben, die von Regierungsbehörden erfüllt wurde und Terroristen eine weitere Forderung gestellt haben.",
+                "Anfrage nach gepanzerter Technik / Hubschrauber und anderer Spezialausrüstung.",
+                "Verstoß gegen die Bedingungen des \"grünen Korridors\".",
+                "Der Angriff ist erlaubt, wenn der Verhandlungsführer als Geisel genommen oder getötet wurde.",
+                "Der Angriff ist verboten, wenn zwischen dem Verhandlungsführer und der Entführungsseite kein Dialog stattgefunden hat.",
+                "Es ist erlaubt, den Entführer zur Fahndung auszuschreiben, nachdem es zu direktem Kontakt mit ihm gekommen ist (Treffen/Dialog).",
+                "Die lösegeldzahlende Seite muss die Entführungsseite darüber informieren, dass sie einen Verhandlungsführer zu ihnen schickt."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "title": "Legale Organisationsregeln",
+    "sections": [
+        {
+            "heading": "<span style='color: blue;'>Allgemeine Regeln</span>",
+            "items": [
+                "Der Führungsebene ist jede kriminelle Tätigkeit, einschließlich Bestechung untersagt. | Mündliche Verwarnung / A-Jail 120 Minuten / Fraktions Kick (Blacklist)",
+                "Der Verkauf von staatlichem Eigentum ist untersagt. | Charakter Sperre für 60 Tage und Charakter Reset / Permanente Charakter Sperre",
+                "Es ist untersagt, Waffen/Gegenstände der Fraktion nach Entlassung/WARN/BAN zu behalten. | Charakter Sperre für 7-30 Tage / Charakter Reset",
+                "Es ist untersagt, gepanzerte Fahrzeuge in der Stadt ohne Kolonne zu bewegen. | Mündliche Verwarnung / Fraktions Verwarnung",
+                "Es ist untersagt, Spieler in eine Fraktion aufzunehmen, die aktive IC-Strafen von staatlichen Organisationen haben. | Mündliche Verwarnung mit dem Leader & Entlassung des Spielers",
+                "Die Beschlagnahmung illegaler Gegenstände erfolgt ausschließlich über die Serverfunktionalität. | Warn",
+                "Auf die Bitte eines Festgenommenen um einen Anwalt muss sein Recht auf Verteidigung gewährt werden, wenn er keinen hat wird ihm einer vom Government gestellt. | Mündliche Verwarnung / A-Jail 120 Minuten / A-Jail 180 Minuten",
+                "Es ist untersagt, Militärausweise ohne schwerwiegenden IG-Grund auszugeben/zu beschlagnahmen. | A-Jail 120 Minuten & Entzug der Lizenz / A-Jail 180 Minuten",
+                "Die Belohnung staatlicher Fraktionen und ihrer Mitglieder erfolgt ausschließlich auf funktionale Weise. | Mündliche Verwarnung",
+                "Mitarbeitern staatlicher Organisationen ist es untersagt, mehr als zwei Ränge pro Tag zu befördern. Ausnahme: Genehmigung des Hauptkurators.",
+                "Liste der Gründe für Direkte-Entlassungen:",
+                "- Schüren von Konflikten innerhalb der Fraktion",
+                "- Verstoß gegen die Serverregeln",
+                "- Lang anhaltende Inaktivität",
+                "- Anti-Fraktionsbewegung",
+                "Es ist untersagt, Material für Fallakten, Büroarbeit usw. zu verwenden, dass ohne Verwendung einer funktionalen Bodycam erhalten wurde. | Mündliche Verwarnung",
+                "Spielern staatlicher Strukturen ist es untersagt, die Kleiderordnung zu missachten. | Mündliche Verwarnung / A-Jail 60 Minuten / A-Jail 120 Minuten",
+                "Es ist untersagt, das Fraktionslager außerhalb von Fraktionsveranstaltungen / Prozessen zu nutzen. | Mündliche Verwarnung / Charakter Sperre für 7-30 Tage",
+                "Korruption ist in den unteren Rängen nur möglich per Antrag. | Warn",
+                "Bei einem 3 Frakwarn wird die Fraktion automatisch aufgelöst."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Regelwerk für die Interaktion staatlicher Organisationen</span>",
+            "items": [
+                "Alle staatlichen Organisationen unterliegen der Regierung.",
+                "Die Regierung kann durch einen Staatsstreich unter Beteiligung von mindestens zwei staatlichen Organisationen und mit Zustimmung des Hauptkurators abgesetzt werden.",
+                "Eine Versetzung muss von beiden Anführern genehmigt werden (Anführer der Fraktion, in der sich der Spieler befindet, und Anführer der Fraktion, zu der er wechseln möchte).",
+                "Mitarbeiter der Exekutivorgane umfassen alle Mitarbeiter des Sheriff Department, Mitarbeiter des LSPD sowie Agenten des FIB.",
+                "Mitarbeitern der Exekutivorgane ist es untersagt, einen Spieler, der während seiner Festnahme getötet wurde und sich im Krankenhaus befindet, zu verhaften. | Verwarnung beim Leader & A-Jail 120-180 Minuten",
+                "Mitarbeiter der Exekutivorgane müssen patrouillieren, Festnahmen durchführen und auf Anrufe nur mit Fraktionsfahrzeugen reagieren.",
+                "Bei Festnahme/Verhaftung/Durchsuchung eines Spielers/Fahrzeugs wegen rechtswidriger Handlungen sind Spieler von staatlichen Fraktionen verpflichtet, eine Videoaufzeichnung zu haben und diese 72 Stunden ab dem Zeitpunkt des Vorfalls aufzubewahren. | A-Jail 180 Minuten, wenn keine POC eingereicht wird",
+                "Mitarbeiter vom FIB, LSPD, LSSD und National Guard ist es untersagt, sich auf dem Gebiet einer kriminellen Organisation aufzuhalten. Wenn auf Mitarbeiter von FIB, LSPD, LSSD und National Guard geschossen wurde, dürfen sie sich im Gebiet der Bande/Anwesen der Familie mit bis zu 10 Personen aufhalten. | Mündliche Fraktions Verwarnung / Fraktions Verwarnung"
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Regierung - Rathaus</span>",
+            "items": [
+                "Die Gebühren für die Registrierung von Unternehmen dürfen 250.000 $ ingame nicht überschreiten.",
+                "Die Regierung ist verpflichtet, Überprüfungen staatlicher Organisationen durchzuführen.",
+                "Die gesetzgebende Gewalt der Regierung ist verpflichtet, die Gesetzgebung aktuell zu gestalten und aufrechtzuerhalten.",
+                "Der Fraktionsbetreuer kann Änderungen/Neuerungen in der Gesetzgebung ablehnen, wenn solche Änderungen im Widerspruch zur RP-Logik stehen.",
+                "Die Regierungsverwaltung darf den Staatshaushalt nur im Interesse des Staates verwenden.",
+                "Die Regierung kann das Budget staatlicher Strukturen kürzen, wenn es eine schwerwiegende IC-Begründung und RP-Komponente gibt.",
+                "Die Regierung ist verpflichtet, die Freizeit der Bürger zu unterstützen und mindestens alle 14 Tage ein großes und mindestens alle 5 Tage ein kleines Event zu veranstalten.",
+                "Es ist der Regierung untersagt, Handlungen von Mitarbeitern staatlicher Strukturen zu ignorieren, die im Widerspruch zur realen Situation in staatlichen Organisationen stehen.",
+                "Die Regierung ist verpflichtet, einen qualifizierten Anwalt im Personal zu haben, der die Interessen der Bürger vor Gericht vertritt."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>United States Secret Service</span>",
+            "items": [
+                "USSS unterliegt ausschließlich der Regierung, ihren Vorschriften und Satzungen.",
+                "USSS ist ein geheimer Dienst der Regierung, der zur Sicherung der obersten Amtsträger, Überprüfung anderer staatlicher Strukturen in Zusammenarbeit mit dem FIB und zur Durchführung von Spezialaufträgen geschaffen wurde.",
+                "USSS kann bei außergewöhnlichen Ereignissen hinzugezogen werden."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>FIB</span>",
+            "items": [
+                "Mitarbeiter vom FIB unterliegen dem Justizministerium und der Staatsanwaltschaft.",
+                "Mitarbeiter vom FIB müssen Überwachungsaktivitäten über staatliche Strukturen durchführen.",
+                "Mitarbeiter vom FIB müssen die Ausführung und Bearbeitung von Beschwerden von gewöhnlichen Spielern, die beim LSPD/LSSD eingehen, überwachen.",
+                "Fallakten werden ausschließlich von Mitarbeitern von FIB erstellt, aber Material kann von allen Mitarbeitern eingereicht werden."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>LSPD / LSSD</span>",
+            "items": [
+                "Die Hauptaufgabe von Mitarbeitern des LSPD/LSSD besteht darin, auf kriminelle Aktivitäten zu reagieren und diese zu unterbinden.",
+                "Mitarbeiter des LSPD/LSSD müssen Bürgerbeschwerden innerhalb von 48 Stunden nach Eingang bearbeiten.",
+                "Das Ignorieren von Notrufen von Spielern ist verboten.",
+                "Bei der Erstellung einer Fallakte muss diese an die Mitarbeiter von FIB übergeben und von ihnen genehmigt werden."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>S.A. Nation Guard</span>",
+            "items": [
+                "Die Nationalgarde hat das Recht, Militärfahrzeuge im Falle einer 'außerordentlichen Situation' und des 'Kriegsrechts' einzusetzen, sowie bei genehmigten Veranstaltungen.",
+                "Die Nationalgarde hat das Recht, Bürger des Staates wegen rechtswidriger Handlungen festzunehmen und sie den Mitarbeitern von FIB, LSPD oder LSSD zuzuführen.",
+                "Mitarbeitern der SANG ist es untersagt, ohne triftigen Grund im Ghetto zu sein.",
+                "Das Gebiet der SANG beginnt nach dem Checkpoint. Das gesamte Gebiet vor dem Checkpoint gilt als öffentlich und steht Bürgern zur Verfügung.",
+                "Die Nationalgarde ist berechtigt, im Falle eines illegalen Eindringens in das Fort das Feuer zu eröffnen."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Regeln für RP-Verhöre</span>",
+            "items": [
+                "Ein RP-Verhör muss stichhaltige IC-Gründe haben.",
+                "Dem Verhörten ist es untersagt, die RP-Regeln zu brechen.",
+                "Der Verhörte muss nicht klar auf Fragen zu seinem Rang/Einfluss in einer kriminellen Organisation antworten sowie auf direkte Fragen zu kriminellen Aktivitäten der Fraktion. Angehörige staatlicher Fraktionen dürfen keine unangemessenen Fragen in /do stellen. | Verwarnung per Nachricht",
+                "Das Verhör darf keine grobe Gewalt enthalten, das Zufügen schwerer Körperschäden ist verboten. | A-Jail 180 Minuten & Warn",
+                "Das Verhör darf nicht länger als 120 Minuten dauern. | Mündliche Verwarnung / A-Jail 120 Minuten",
+                "Es ist verboten, RP-Verhöre absichtlich zu verzögern. | Warn"
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Regeln für die Durchsuchung von Fahrzeugen</span>",
+            "items": [
+                "Eine Durchsuchung kann durchgeführt werden auf der Grundlage von: Unruhen, zunehmender Verbreitung illegaler Waffen, Kriegsrecht, Gerichtsentscheidung, Entscheidung der Staatsanwaltschaft, Razzia usw. Der Durchsuchung kann nur für die Fahrzeuge verwendet werden, die in der Akte / Klage / Verstoß aufgeführt sind.",
+                "Bei normalen Streifenfahrten kann eine Fahrzeugdurchsuchung ausschließlich wegen Verstoßes gegen das Strafgesetzbuch durchgeführt werden.",
+                "Wenn ein Unternehmen/eine Bank ausgeraubt wird, haben Regierungsbehörden das Recht, alle in der Nähe befindlichen Fahrzeuge zu inspizieren.",
+                "Bei Durchsuchung ist es erforderlich, über Videomaterial zu verfügen und es 72 Stunden lang aufzubewahren; gemäß Abschnitt 2.7 ist es der Verwaltung zur Verfügung zu stellen."
+            ]
+        },
+        {
+            "heading": "<span style='color: blue;'>Warnstufen/Defconstufen</span>",
+            "items": [
+                "Regelbetrieb/Defcon 5:",
+                "1. Governeur",
+                "2. FIB",
+                "3. LSPD/SD",
+                "",
+                "Erhöhte Gefahr/Defcon 4:",
+                "1. Governeur",
+                "2. FIB",
+                "3. LSPD/SD",
+                "4. USSS (erhöhte Alarmbereitschaft)",
+                "",
+                "Hohe Gefahr/Defcon 3:",
+                "1. Governeur",
+                "2. FIB",
+                "3. LSPD/SD",
+                "4. USSS/SANG (wird dazugeholt um ebenfalls Streife zu fahren und besonderen Wert auf die Sicherheit der hochrangigen Regierungsmitarbeiter sowie Leader und hochrangige Mitglieder der anderen Orgas zu legen)",
+                "",
+                "Akute Gefahr/Defcon 2:",
+                "1. SANG/FIB/Governeur (SANG wird hier zur Exekutive)",
+                "2. LSPD/SD",
+                "3. USSS",
+                "",
+                "Ausnahmezustand/Defcon 1:",
+                "1. SANG/FIB",
+                "2. Governeur",
+                "3. LSPD/SD/USSS"
+            ]
+        }
+    ]
+}

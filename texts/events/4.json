@@ -1,0 +1,41 @@
+{
+    "title": "Casino Heist",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Wenn Sie ein Casino ausrauben, gelten alle gängigen Serverregeln.",
+                "Nur Mafias/Banden dürfen sich an Casino-Raubüberfällen beteiligen, und die Verteidigung liegt bei mehreren Fraktionen: FIB, LSPD, LSSD, SANG. | Warn",
+                "Casino-Raubüberfälle finden ausschließlich an geraden Tagen im Monat (2., 4., 6. usw.) von 17:00 bis 23:00 Uhr statt. Ergänzung: Um ein Casino auszurauben, benötigen Sie 400 Dietriche.",
+                "Es ist verboten, Personen während eines Raubüberfalls im Diamond Casino zu entführen. | Warn",
+                "Es ist verboten, Ein- und Ausgänge vom Diamond Casino zu blockieren. | A-Jail 120 Minuten & Gespräch mit dem Anführer. Ergänzung: Der Beginn des Raubüberfalls ist der Moment, in dem der Tresor explodiert.",
+                "Es ist verboten, während des Raubüberfalls Casino Dächer zu benutzen, sowohl zur Verteidigung als auch zum Angriff. | A-Jail 120 Minuten",
+                "Die Mafia ist verpflichtet, ihren Kurator mindestens eine Stunde vor Beginn des Raubüberfalls zu benachrichtigen. | Fraktions Verwarnung",
+                "Es ist verboten, jegliche Art von Scharfschützengewehr, Taser, zu verwenden. | A-Jail 120 Minuten",
+                "Es ist verboten, in das Innere des Diamond Casinos zu fahren. | A-Jail 120 Minuten / A-Jail 180 Minuten / Warn",
+                "Es ist verboten, auf die Kisten im Diamond Casino zu klettern. | A-Jail 120 Minuten",
+                "Der gesamte Prozess muss auf Video aufgezeichnet werden. | Charakter Sperre für 30 Tage. Hinweis: Das Video muss den Originalton enthalten, eine Auflösung von mindestens 720p haben, die Teilnehmer müssen die Aufzeichnung 48 Stunden aufbewahren und sie auf erste Anforderung der Administration bereitstellen."
+            ]
+        },
+        {
+            "heading": "Regeln für kriminelle Organisationen",
+            "items": [
+                "Mafia-Mitglieder müssen sich bei Angriffen auf Casinos an die ethnischen Merkmale und die Kleiderordnung ihrer Organisation halten. | A-Jail 120 Minuten",
+                "Alle Teilnehmer des Raubüberfalls müssen eine Maske tragen und eine Schusswaffe mit sich führen. | A-Jail 120 Minuten",
+                "Bei einem Raubüberfall auf ein Casino dürfen Mafia-Mitglieder Fraktions- und Privatfahrzeuge benutzen, die in der Farbe der Fraktion lackiert sind.",
+                "Mafias ist es erlaubt, eine Bande als Verbündeten mit zu nehmen, um ein Casino auszurauben, solange es ein IC-Bündnis gibt.",
+                "Wenn eine Mafia bereits ein Casino ausraubt, dann ist es rivalisierenden Mafias verboten, sich in den Raub einzumischen. | Fraktions Verwarnung",
+                "Mafia-Mitglieder sind verpflichtet, das Veranstaltungsgelände innerhalb von 15 Minuten nach Beendigung des Raubs zu verlassen. | Fraktions Verwarnung"
+            ]
+        },
+        {
+            "heading": "Regeln für Behörden",
+            "items": [
+                "Mitarbeitern von LSPD, FIB, SANG, LSSD ist es nicht gestattet, die Casino-Filiale sowie das nahe gelegene Territorium im Voraus zu besetzen. | Fraktions Verwarnung",
+                "Die Mindestanzahl der Mitarbeiter einer Fraktion zum Schutz des Casinos beträgt 7 Personen.",
+                "Den Mitarbeitern der oben genannten staatlichen Einrichtungen ist es untersagt, die Autos, in denen die Teilnehmer der Veranstaltung angereist sind, bis zum Ende des Überfalls abzuschleppen. | A-Jail 120-180 Minuten",
+                "Es ist verboten, das Feuer ohne Dialog mit den Räubern zu eröffnen. | A-Jail 120 Minuten / A-Jail 180 Minuten / Warn. Hinweis: Für den Fall, dass die Räuber zuerst das Feuer eröffnet haben, dürfen Regierungsbeamte den Angriff starten."
+            ]
+        }
+    ]
+}

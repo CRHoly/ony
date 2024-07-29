@@ -1,0 +1,41 @@
+{
+    "title": "Raids/Razzien",
+    "sections": [
+        {
+            "heading": "Allgemeine Regeln",
+            "items": [
+                "Ein Raid wird auf einem bestimmten Gebiet einer kriminellen Organisation durchgeführt. Das Gebiet muss im Raid-Befehl angegeben sein.",
+                "Ein Raid darf nur nach Erhalt des Befehls und Zustimmung des Hauptkurators der Fraktion durchgeführt werden.",
+                "Die Hauptaufgabe des Raids besteht darin, das Gebiet unter Kontrolle zu bringen, Personen und Fahrzeuge auf dem Gebiet zu durchsuchen, das Gebiet von illegalen Gegenständen zu säubern und bestimmte Personen festzunehmen. Wenn der Raid auf die Festnahme einer bestimmten Person abzielt, kann diese festgenommen und zu einem Verhör gebracht werden, auch wenn nichts Illegales gefunden wurde.",
+                "Nach einem erfolgreichen Raid können staatliche Strukturen 1/2 der gelagerten Materialien aus dem Lager der Organisation, gegen die der erfolgreiche Raid durchgeführt wurde, zerstören, sowie 1/2 des Lagers säubern.",
+                "Der gesamte Prozess muss auf Video aufgezeichnet werden. | Charakter Sperre für 30 Tage / Fraktions Verwarnung."
+            ]
+        },
+        {
+            "heading": "Regeln für staatliche Strukturen",
+            "items": [
+                "Nur Fraktionsfahrzeuge dürfen verwendet werden.",
+                "Die minimale Anzahl der Teilnehmer seitens staatlicher Organisationen beträgt 10 Personen.",
+                "Mindestens 2 paramilitärische staatliche Organisationen müssen am Raid beteiligt sein.",
+                "Ein Vertreter des Führungspersonals muss am Raid teilnehmen.",
+                "Bei einem Raid ist eine vollständige Videoaufzeichnung von mindestens 2 Teilnehmern jeder Fraktion erforderlich.",
+                "Bei einem Raid muss eines der Fahrzeuge verwendet werden: Insurgent, Riot.",
+                "Es ist verboten, einen Raid auf das Gebiet einer Fraktion 30 Minuten vor der Capturing-Phase durchzuführen.",
+                "Falls während der Annäherung staatlicher Strukturen an das Gebiet, auf das der Raid durchgeführt wird, ein Capture stattfindet, hat die staatliche Struktur das Recht, den Raid durchzuführen. Das Capture wird automatisch abgebrochen.",
+                "Es ist verboten, einen Raid auf eine Organisation öfter als einmal alle 48 Stunden durchzuführen. | Fraktions Verwarnung.",
+                "Eingezogene Materialien können zum persönlichen Lager der initiierenden Fraktion transportiert werden."
+            ]
+        },
+        {
+            "heading": "Regeln für Organisationen",
+            "items": [
+                "Das Anfordern von Hilfe von verbündeten Organisationen ist erlaubt.",
+                "Das absichtliche Entleeren des Lagers während eines Raids ist verboten. | Fraktions Verwarnung & Charakter Sperre für 14 Tage.",
+                "Das Übertragen/Verstecken illegaler Gegenstände im Lager der Fraktion/im Kofferraum eines Fahrzeugs während eines Raids ist verboten. | Warn.",
+                "Das absichtliche Verlassen der Spielsitzung ist verboten. | Warn.",
+                "Das Zurückweisen staatlicher Strukturen unter Einhaltung der PG-Regeln ist erlaubt.",
+                "Eine Organisation, deren Lager zerstört wurde, hat das Recht, die von staatlichen Strukturen transportierten Materialien zu übernehmen (gemäß den Regeln für das Abfangen von Lieferungen)."
+            ]
+        }
+    ]
+}

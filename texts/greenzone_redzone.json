@@ -1,0 +1,62 @@
+{
+    "title": "Greenzone - Redzone",
+    "sections": [
+        {
+            "heading": "<span style='color: green;'>Allgemeine Regeln für die Greenzone</span>",
+            "items": [
+                "<span style='color: green;'>Die Greenzone ist ein Ort, an dem alle kriminellen Aktivitäten verboten sind!</span>",
+                "Töten in der Greenzone ist verboten | <span style='color: red;'>WARN</span>",
+                "Der Verkauf von Waffen und Drogen ist verboten. Leute zu entführen, auszurauben und den Spielern Taschen auf den Kopf zu ziehen ist verboten. | <span style='color: red;'>WARN</span>",
+                "Es ist verboten, die RP-Situation zu verlassen, indem man in eine Greenzone flüchtet | <span style='color: red;'>WARN</span>",
+                "Sexuelle Animationen oder Andeutungen sind verboten | <span style='color: red;'>Charakter Sperre 7-14 Tage</span>"
+            ]
+        },
+        {
+            "heading": "Auflistung der Greenzone-Gebiete",
+            "items": [
+                "Regierung von Los Santos",
+                "FIB-Gebäude; Weazel News-Gebäude; LSPD-Gebäude; EMS-Gebäude und angrenzende Parkplätze",
+                "Taxistände; Miet Standorte für Sammelfahrzeuge; Miet Standorte für LKWs; Busvermietung Plätze",
+                "Maskenladen",
+                "Bekleidungsgeschäfte",
+                "Waffengeschäfte",
+                "Banken",
+                "24/7 Läden",
+                "Friseure",
+                "Tankstellen",
+                "Tattoo-Studios",
+                "Autohändler",
+                "Optik- und Leistungstuner",
+                "Gebiete mit nutzbaren Parkplätzen",
+                "Marktplätze",
+                "Jeder Interaktionsbereich mit Quests",
+                "Transportmietzonen",
+                "Amphitheater",
+                "Clubs und Bars",
+                "Angelgeschäft",
+                "Zonen in der Nähe aller NPCs",
+                "Diamond Casino",
+                "Führerscheinstelle",
+                "Jobs: Mülldeponie, Elektriker, Bauunternehmer, Holzfäller und alle angrenzenden Bereiche"
+            ]
+        },
+        {
+            "heading": "<span style='color: yellow;'>Ausnahme</span>",
+            "items": [
+                "Es besteht die Möglichkeit, dass bei speziellen Veranstaltungen bzw. Events diese Greenzones aufgehoben werden können - es obliegt hierbei der Administration."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Redzone</span>",
+            "items": [
+                "<span style='color: red;'>Die Redzone ist ein gefährliches Gebiet in Los Santos, in dem eine große Anzahl von kriminellen Bürgern lebt.</span>",
+                "In der Red Zone ist es nur von 23:00 bis 08:00 Uhr erlaubt, auf bewaffnete Personen ohne Warnung zu schießen. | Regel \"RDM\"",
+                "Erläuterung: Als bewaffnet gilt eine Person mit einer Waffe in den Händen (einschließlich Handfeuerwaffen).",
+                "Zur Red Zone gehören:",
+                "Ghetto-Gebiet",
+                "Banden-Respawns",
+                "Exklusive Hauptquartiere von Organisationen (Familienvillen)"
+            ]
+        }
+    ]
+}

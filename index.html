@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Server Regeln</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="header">Server Regeln</div>
+    
+    <div class="tabs">
+        <div class="tab active" onclick="loadContent('modifikations_regelwerk.json')">Modifikations Regelwerk</div>
+        <div class="tab" onclick="loadContent('allgemeine_serverregeln.json')">Allgemeine Serverregeln</div>
+        <div class="tab" onclick="loadContent('greenzone_redzone.json')">Greenzone - Redzone</div>
+        <div class="tab" onclick="loadContent('raubueberfaelle_entfuehrung.json')">Raubüberfälle und Entführung</div>
+        <div class="tab" onclick="loadContent('ausnahmezustand_purge.json')">Ausnahmezustand - Purge</div>
+        <div class="tab" onclick="loadContent('kriminelle_organisationsregeln.json')">Kriminelle Organisationsregeln</div>
+        <div class="tab" onclick="loadContent('legale_organisationsregeln.json')">Legale Organisationsregeln</div>
+        <div class="tab" onclick="loadContent('regeln_fuer_leader.json')">Regeln für Leader</div>
+        <div class="tab" onclick="loadEvents()">Event Regeln</div>
+    </div>
+
+    <div id="content" class="content">
+        <div class="text-container" id="text-container">
+            <!-- Inhalte werden hier dynamisch geladen -->
+        </div>
+    </div>
+
+    <script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        // Lade den Inhalt des ersten Tabs beim Laden der Seite
+        loadContent('modifikations_regelwerk.json');
+    });
+
+    function loadContent(fileName) {
+        // Entferne die "active" Klasse von allen Tabs
+        document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+        
+        // Füge die "active" Klasse zum geklickten Tab hinzu
+        const tab = Array.from(document.querySelectorAll('.tab')).find(tab => tab.getAttribute('onclick').includes(fileName));
+        if (tab) tab.classList.add('active');
+
+        if (fileName === 'event_regeln.json') {
+            loadEvents();
+            return;
+        }
+        
+        fetch(`texts/${fileName}`)
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error(`HTTP error! Status: ${response.status}`);
+                }
+                return response.json();
+            })
+            .then(data => {
+                const textContainer = document.getElementById('text-container');
+                textContainer.innerHTML = `<h2>${data.title}</h2>`;
+                
+                data.sections.forEach(section => {
+                    textContainer.innerHTML += `<h3>${section.heading}</h3>`;
+                    const ul = document.createElement('ul');
+                    section.items.forEach(item => {
+                        ul.innerHTML += `<li>${item}</li>`;
+                    });
+                    textContainer.appendChild(ul);
+                });
+
+                if (data.note) {
+                    textContainer.innerHTML += `<p>${data.note}</p>`;
+                }
+            })
+            .catch(error => {
+                console.error('Error loading content:', error);
+                document.getElementById('text-container').innerHTML = `<p>Fehler beim Laden der Inhalte. Bitte versuche es später erneut.</p>`;
+            });
+    }
+
+    async function loadEvents() {
+        const textContainer = document.getElementById('text-container');
+        textContainer.innerHTML = '<h2>Event Regeln</h2>';
+        
+        const eventFiles = [
+            'events/1.json', // Ladenraub
+            'events/2.json', // Banküberfälle
+            'events/3.json', // Hafenraub
+            'events/4.json',
+            'events/5.json',
+            'events/6.json',
+            'events/7.json',
+            'events/8.json',
+            'events/9.json'
+        ];
+        
+        try {
+            const responses = await Promise.all(eventFiles.map(file => fetch(`texts/${file}`)));
+            const eventsData = await Promise.all(responses.map(response => response.json()));
+            
+            const gridContainer = document.createElement('div');
+            gridContainer.className = 'grid-container';
+            
+            eventsData.forEach(data => {
+                const gridItem = document.createElement('div');
+                gridItem.className = 'grid-item';
+
+                // Füge den Titel des Events hinzu
+                gridItem.innerHTML = `<h3>${data.title}</h3>`;
+
+                // Füge die Regeln hinzu
+                data.sections.forEach(section => {
+                    gridItem.innerHTML += `<h4>${section.heading}</h4>`;
+                    const ul = document.createElement('ul');
+                    section.items.forEach(item => {
+                        ul.innerHTML += `<li>${item}</li>`;
+                    });
+                    gridItem.appendChild(ul);
+                });
+
+                gridContainer.appendChild(gridItem);
+            });
+            
+            textContainer.appendChild(gridContainer);
+        } catch (error) {
+            console.error('Error loading event content:', error);
+            textContainer.innerHTML = `<p>Fehler beim Laden der Event-Regeln. Bitte versuche es später erneut.</p>`;
+        }
+    }
+    </script>
+</body>
+</html>

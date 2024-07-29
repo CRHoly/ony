@@ -1,0 +1,44 @@
+{
+    "title": "Modifikations Regelwerk",
+    "sections": [
+        {
+            "heading": "<span style='color:green;'>Erlaubt</span>",
+            "items": [
+                "Always Day/Night",
+                "EU- /LA- /Minecraft-Straßen",
+                "Feuereffekte (bei der Waffe) und andere Raucheffekte",
+                "Veränderter Todeseffekt/Grauer Bildschirm",
+                "Andere Farben bei Drogeneffekten",
+                "No Fog/Clear Vision",
+                "HP Anzeigen auf der Map",
+                "HP- /Westen-Anzeige in Zahlen"
+            ]
+        },
+        {
+            "heading": "<span style='color:orange;'>Teilweise erlaubt</span>",
+            "items": [
+                "Andere Waffen (+- 10% der normalen Waffengröße)",
+                "Andere Schriftarten (+- 10% der original Größe)",
+                "Entfernen von Explosionen (Physics müssen vorhanden sein)",
+                "Hiteffekte (diese dürfen weder auf dem Kopf noch auf dem Körper nachziehen)",
+                "Kein Regen (Regen Physics müssen vorhanden sein)",
+                "Leuchtende Waffen sind erlaubt, solang sie nicht wie Sterne leuchten."
+            ]
+        },
+        {
+            "heading": "<span style='color:red;'>Verboten</span>",
+            "items": [
+                "Clear Water",
+                "Tracer (Farbige Schusslinien)",
+                "Entfernen / Verringerung von Drogen Effekten",
+                "Veränderungen der Hitbox",
+                "Veränderungen der Waffenconfigs",
+                "Veränderung / Entfernung von Objekten (Farbliche Veränderungen von z.B. Bäumen sind erlaubt)",
+                "Clear Scope bei Sniper",
+                "2D Büsche",
+                "Darstellung von Charakteren (z.B. alles Rot)",
+                "Das generelle Nutzen von externen Programmen, um sich einen Vorteil gegenüber anderen Spielern zu verschaffen ist verboten und wird entsprechend geahndet!"
+            ]
+        }
+    ]
+}

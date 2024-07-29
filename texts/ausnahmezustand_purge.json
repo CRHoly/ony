@@ -1,0 +1,81 @@
+{
+    "title": "Ausnahmezustand - Purge",
+    "sections": [
+        {
+            "heading": "<span style='color: green;'>Allgemeine Regeln</span>",
+            "items": [
+                "Der Ausnahmezustand wird vom Gouverneur eingeführt, nach Veröffentlichung der IC-Dokumentation.",
+                "Alle Organisationen (einschließlich inoffizieller) können teilnehmen.",
+                "Der Ausnahmezustand wird nur aufgrund schwerwiegender IC-Gründe erklärt.",
+                "Der Ausnahmezustand wird mit Genehmigung des Gouverneurs und eine Stunde nach Erhalt und Unterzeichnung der Verordnung eingeführt.",
+                "Die maximale Dauer der Veranstaltung beträgt 24 Stunden | Mündliche Ermahnung an die Führer der staatlichen Strukturen.",
+                "Während des Ausnahmezustands gelten alle allgemeinen Serverregeln.",
+                "Für kriminelle Organisationen gibt es während des Ausnahmezustands keine Einschränkungen für RP-Allianzen.",
+                "Das Rammen von Straßensperren ist verboten. | A-Jail für 120 Minuten",
+                "Ausnahme: Insurgent, Riot2 und andere schwere gepanzerte Spezialfahrzeuge.",
+                "Der sogenannte Ausnahmezustand kann bei Massenunruhen, terroristischen Akten und anderen schwerwiegenden IC-Gründen eingeführt werden.",
+                "Es ist während des Ausnahmezustands verboten, Kämpfe / Bandenkriege zu veranstalten.",
+                "Der Ausnahmezustand kann ausschließlich für eine Stadt/Region festgelegt werden.",
+                "Hinweis: Bei Festlegung des Ausnahmezustands für eine Stadt müssen die Ein- und Ausfahrten vollständig gesperrt sein."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Regeln für staatliche Organisationen</span>",
+            "items": [
+                "Es ist erlaubt, Checkpoints an den Ein- und Ausfahrten des Ausnahmezustands Gebiets einzurichten.",
+                "Die Verwendung von Schusswaffen ist nur den staatlichen Sicherheitsstrukturen gestattet - FIB/LSPD/LSSD/SANG/USSS.",
+                "Hinweis: Mitarbeitern von EMS/WN/Regierung ist es untersagt, an Schießereien teilzunehmen. | Fraktions Verwarnung",
+                "Ausnahme: Mitarbeitern der USSS ist es gestattet, Waffen nur zum Schutz der höchsten Amtsträger des Staates zu verwenden.",
+                "Dem Gouverneur/Ministern und höheren Rängen der Regierung ist es untersagt, sich auf dem Gebiet des Ausnahmezustands aufzuhalten. Sie müssen an einen sicheren Ort evakuiert werden. | Mündliche Verwarnung / Fraktions Verwarnung",
+                "Die staatlichen Sicherheitsstrukturen müssen während des Ausnahmezustands einen Stab einrichten.",
+                "Während des Ausnahmezustands ist es verboten, Überfälle auf kriminelle Organisationen durchzuführen. | Fraktions Verwarnung",
+                "Nach Ende des Ausnahmezustands müssen staatliche Strukturen das Gebiet innerhalb einer Stunde verlassen. | Mündliche Verwarnung / Fraktions Verwarnung",
+                "Die höchsten Ränge der SANG sind die Oberbefehlshaber bei dieser Veranstaltung, alle Operationen und der Ausnahmezustand selbst finden unter ihrer Kontrolle statt.",
+                "Mitarbeiter staatlicher Strukturen haben das Recht, verdächtige Bürger anzuhalten und zu überprüfen.",
+                "Beispiel: Menschen mit Masken, Menschen mit Waffen, Menschenansammlungen."
+            ]
+        },
+        {
+            "heading": "<span style='color: red;'>Regeln für kriminelle Organisationen</span>",
+            "items": [
+                "Die Vereinigung krimineller Organisationen zur Gegenwehr gegen staatliche Strukturen ist erlaubt.",
+                "Es ist verboten, an Schießereien ohne Schusswaffen teilzunehmen. | A-Jail 120 Minuten",
+                "Es ist verboten, während einer Verfolgungsjagd / Schießerei zu den Respawn-Punkten der Fraktionen zu gehen. | A-Jail 60 Minuten / A-Jail 120 Minuten"
+            ]
+        },
+        {
+            "heading": "<span style='color: purple;'>Purge</span>",
+            "items": [
+                "Während der Veranstaltung gelten alle grundlegenden Serverregeln. Ausnahme: DM, PG, SK, TK, RK.",
+                "Hinweis: Strafen für Verstöße gegen die grundlegenden Serverregeln während dieser Veranstaltung können verdoppelt werden.",
+                "IC-Allianzen sind erlaubt (zwischen allen Spielern).",
+                "Das Tragen von Kleidung jeder Farbe, unabhängig von der Fraktion, ist erlaubt.",
+                "Das Feuern aus einem Fahrzeug ist untersagt. | A-Jail 60 Minuten",
+                "Ausnahme: Beide Seiten befinden sich in Fahrzeugen.",
+                "Das Spielen eines korrupten Polizisten ohne RP-Situationen ist erlaubt.",
+                "Die Bewegung von gepanzerten Fahrzeugen ohne Kolonne in der Stadt ist erlaubt.",
+                "SANG-Mitarbeitern ist erlaubt, sich in den Ghettos ohne Anfragen aufzuhalten.",
+                "Staatlichen Mitarbeitern ist es untersagt, Spieler zu verhaften. | A-Jail 180 Minuten / Warn",
+                "Kriminelle Handlungen gegenüber EMS-Mitarbeitern bei der Ausführung sind verboten. | Warn / Charakter Sperre für 1-7 Tage",
+                "Erläuterung: Ein Mitarbeiter gilt als in Ausführung, wenn er vollständig in EMS-Uniform gekleidet ist und in einem Fraktionsfahrzeug fährt.",
+                "Das Töten von Teilnehmern der Veranstaltung am Ausgang eines Innenraums/Grünen Bereichs ist verboten. | Warn"
+            ]
+        },
+        {
+            "heading": "<span style='color: yellow;'>Regeln für Grüne Zonen</span>",
+            "items": [
+                "Eine grüne Zone ist eine Zone, die unabhängig vom Chaos vollständige Immunität während Massenunruhen bietet.",
+                "Schießereien und Kämpfe sind verboten. | Warn",
+                "Raubüberfälle/Entführungen sind verboten. | Warn",
+                "Das Entkommen/Verstecken vor Verfolgungen ist verboten. | Warn",
+                "Hinweis: Wenn ein Spieler sich in einer Grünen Zone aufhält und Sie nicht, werden alle von Ihnen in der Grünen Zone durchgeführten verbotenen Handlungen gegenüber ihm als Regelverstoß in der Grünen Zone betrachtet.",
+                "Liste der Territorien, die zu den Grünen Zonen gehören:",
+                "Funktionale Grüne Zonen (auf Fraktionen werden sie mit Ausnahme der unten aufgeführten deaktiviert).",
+                "Staatliche Einrichtungen: Rathaus, EMS-Gebäude (gemäß den Spielzonenregeln), Fahrschule, Bundesgefängnis, Weazel-News, Krankenhaus in Sandy Shores/Paleto Bay.",
+                "Arbeitsplätze: Geldtransporteur, Holzfäller, Müllrecycling, Bauarbeiter, Taxi, Ladeplätze (alle Jobs), Bauernhof.",
+                "Unternehmen und ihre Innenräume: 24/7-Läden, Tankstellen, Tattoo-Salons, LS Customs, Friseursalons, Autohäuser, Waffenläden, Bekleidungsgeschäfte, Autowaschanlagen.",
+                "Sonstiges: Autowerkstätten, Geldautomaten, Banken, Bootsvermietung und das angrenzende Gebiet, GunGame, Casino-Innenraum, Markt, Auto-Markt, Anfänger-Spawnpunkt, Angelplätze, Haus-/Wohnungsinnenraum, Hausmarkenkauf."
+            ]
+        }
+    ]
+}
