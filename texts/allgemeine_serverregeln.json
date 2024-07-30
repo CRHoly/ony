@@ -1,0 +1,129 @@
+{
+    "title": "Allgemeine Serverregeln",
+    "sections": [
+        {
+            "heading": "Allgemeines",
+            "items": [
+                "1.1 Bei der Registrierung eines Kontos auf dem Onyx RP-Projekt erklärt der Spieler automatisch sein Einverständnis mit allen Regeln und Anhängen auf den offiziellen Ressourcen des Projekts.",
+                "1.2 Der Server basiert auf dem RolePlay-Modus.",
+                "1.3 Der Server positioniert sich als deutschsprachig, alle RP-Dialoge müssen auf Deutsch stattfinden. Ausnahme: Einzelne Wörter und Phrasen für die Rollenspielrolle.",
+                "1.4 Bei der Darstellung von RP-Situationen sollte sich der Spieler an das amerikanische Verhaltensmodell gemäß den Realitäten der Siedlungen in den USA orientieren, nämlich: Entwickelte Infrastruktur und wirtschaftliche Unabhängigkeit.",
+                "1.5 Es ist verboten, Schwachstellen der Serverregeln zu nutzen. <span style='color:red;'>| Charakter Sperre für 60 Tage / Permanente Charakter Sperre</span>",
+                "1.6 In nicht geregelten Situationen dieser Regeln sowie in umstrittenen Situationen behält sich die Administration das Recht vor, nach eigenem Ermessen zu handeln."
+            ]
+        },
+        {
+            "heading": "Spielaccounts",
+            "items": [
+                "2.1 Die Übertragung von Accounts an Dritte ist verboten. <span style='color:red;'>| Permanente Konto Sperre</span>",
+                "2.2 Der Kauf und Verkauf von Spielaccounts ist verboten. <span style='color:red;'>| Permanente Konto Sperre</span>",
+                "2.3 Es ist verboten, mehr als 1 Unternehmen pro Account zu besitzen. <span style='color:red;'>| Konto Sperre für 30 Tage</span>",
+                "2.4 Es ist verboten, gleichzeitig Mitglied mehrerer Charaktere in einer Fraktion zu sein. <span style='color:red;'>| Warn</span>",
+                "2.5 Dem Charakter ist es untersagt, einen nonRP-Namen und eine nonRP-Familienbezeichnung zu haben. <span style='color:red;'>| Namechange</span>",
+                "2.6 Die Projektadministration übernimmt keine Verantwortung für Konten, Charaktere sowie für Eigentum auf Konten, das durch Abstürze im Spiel, Hacks, Ihre Unaufmerksamkeit und nonrp Handlungen anderer Spieler verloren gegangen ist. (Ausnahmen sind möglich)",
+                "2.7 Es ist verboten, als Charakter des entgegengesetzten Geschlechts zu spielen. <span style='color:red;'>| A-Jail bis zur Änderung des Aussehens des Charakters. Ausnahme: Es gibt eine genehmigte RP-Biografie</span>",
+                "2.8 Der Verkauf eines Geschäfts/Hauses unterhalb des staatlichen Werts ist verboten. <span style='color:red;'>| Charakter Sperre für 60 Tage</span>",
+                "2.9 Das Verschenken/Übertragen von Geschäft, Haus und Auto ist verboten. <span style='color:red;'>| Sperre für beide Charaktere für 30 Tage</span>",
+                "2.10 Der Verkauf von Geschäften/Häusern über dem dreifachen Wert des staatlichen Werts ist verboten. <span style='color:red;'>| Charakter Sperre für 60 Tage</span>"
+            ]
+        },
+        {
+            "heading": "Projekt",
+            "items": [
+                "3.1 Die Serververwaltung ist berechtigt, Strafen für festgestellte Verstöße auf moderierten Plattformen zu verhängen. Zu den moderierten Plattformen gehören: Offizielle Discorde/ Twitch / Youtube Kanäle von Media Partnern",
+                "3.2 Private Nachrichten zwischen Spielern unterliegen nicht der Moderation durch die Administration, mit Ausnahme von: IC Käufen",
+                "3.3 Im Falle grober Verstöße (Sperrung) kann die Person, die die Beschwerde einreicht, jedes verfügbare Videomaterial von den genannten Plattformen verwenden, um den Verstoß des Spielers zu beweisen.",
+                "3.4 Die Verwendung von verbotenen Ausdrücken auf Streaming-Plattformen (Twitch, YouTube usw.) ist untersagt. <span style='color:red;'>| Voice-Mute für 60 - 120 Minuten / Charakter Sperre für 3 Tage / Konto Sperre für 7 - 14 Tage / Permanente Konto Sperre</span>",
+                "3.5 Stream-Sniping ist verboten. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>"
+            ]
+        },
+        {
+            "heading": "Spielprozess",
+            "items": [
+                "4.1 RDM (Random Deathmatch) - direktes Töten/Schaden zufügen an einen Spieler ohne IC-Grund. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>",
+                "4.2 VDM (Vehicle Deathmatch) - Angreifen, Verwunden oder Töten von Spielern mit Fahrzeugen ohne triftigen Grund. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>",
+                "4.3 DB (DriveBy) - direktes Töten/Schaden zufügen an einen Spieler aus einem Fahrzeug. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>",
+                "4.4 NonRP-Verhalten (Handlungen, die der Roleplay-Logik widersprechen). <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>",
+                "4.5 NonRP Drive - Fahren eines Fahrzeugs unter unrealistischen Bedingungen. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten</span>",
+                "4.6 NonRP Fly - Steuern eines Luftfahrzeugs unter unrealistischen Bedingungen. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten</span>",
+                "4.7 PG (Power Gaming) / Fail RP - Fehlendes Lebensängste, Übertreibung der Fähigkeiten des eigenen Charakters. Das Verhalten eines Spielers, das er sich im wirklichen Leben nicht erlauben könnte. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn</span>",
+                "4.8 SK (Spawn Kill) - Schaden zufügen, Töten am Ort des Erscheinens/Basis einer bestimmten Gruppe von Personen oder einer Person. <span style='color:red;'>| A-Jail 180 Minuten / Warn</span>",
+                "4.9 TK (Team Kill) - Vorsätzlicher Schaden, Töten von Spielern/Teampartnern, die sich in derselben Organisation befinden wie Sie. <span style='color:red;'>| Warn</span>",
+                "4.10 MG (Meta Gaming) - Verwendung von OOC-Informationen, die Ihr Charakter nicht 'RP-mäßig' kennen würde. <span style='color:red;'>| A-Jail für 120 Minuten / A-Jail für 180 Minuten / Warn Hinweis: Dazu zählt ebenfalls das erkennen einer nicht identifizierbaren Person anhand der ID oder Stimme. Zu einer nicht identifizierbaren Person zählt wenn Mund und Nase vollständig bedeckt ist oder über dem Kopf 'Fremder' steht.</span>",
+                "4.11 RP-Flucht. <span style='color:red;'>| Warn</span>",
+                "4.12 NLR (New Life Rule) / RK (Revenge Kill) - Rückkehr an den Ort des Todes nach schweren Verletzungen. <span style='color:red;'>| Warn</span>",
+                "4.13 Die Verwendung von Gegenständen zur Wiederherstellung von Gesundheit/Rüstung während eines Feuergefechts, ist außerhalb einer Deckung verboten. <span style='color:red;'>| A-Jail für 120 Minuten</span>",
+                "4.14 Es ist verboten, aus einem Fahrzeug auf Spieler zu schießen, die zu Fuß unterwegs sind. <span style='color:red;'>| A-Jail 120 Minuten / A-Jail 180 Minuten / Warn</span>",
+                "4.15 Alle kriminellen Handlungen gegen EMS/Weazel News-Mitarbeiter während der Arbeitszeit sind verboten. <span style='color:red;'>| Warn / Charakter Sperre für 3-7 Tage</span>",
+                "4.16 Es ist verboten, Gegenstände während eines Feuergefechts aufzuheben. <span style='color:red;'>| A-Jail für 60 Minuten / A-Jail für 120 Minuten</span>",
+                "4.17 Es ist verboten, während eines Feuergefechts irgendwelche RP-Überfälle durchzuführen. <span style='color:red;'>| A-Jail für 180 Minuten / Warn</span>",
+                "4.18 Es ist verboten, absichtlich Waffen zu wechseln oder sie ins Inventar zu packen, um sie zu behalten. <span style='color:red;'>| A-Jail 60 Minuten</span>",
+                "4.19 Provokative Handlungen ('Baiting') gegenüber staatlichen Mitarbeitern sind verboten. <span style='color:red;'>| A-Jail 60 Minuten / A-Jail 120 Minuten</span>",
+                "4.20 Es ist verboten Animationen während des Schussgefechts durchzuführen. <span style='color:red;'>| A-Jail 120 Minuten</span>",
+                "4.21 Es ist verboten, Verhandlungsversuche bei bewaffneten Konflikten zu unternehmen. <span style='color:red;'>| A-Jail 120 Minuten / A-Jail 180 Minuten</span>"
+            ]
+        },
+        {
+            "heading": "Verhalten",
+            "items": [
+                "5.1 Belästigungen sind verboten. <span style='color:red;'>| Warn / Charakter Sperre für 3-7 Tage / Charakter Sperre für 30 Tage</span>",
+                "5.2 Hetze und Diskriminierung aufgrund von Hautfarbe, Geschlecht, Alter, Herkunft, sexueller Orientierung oder Religion sind verboten. <span style='color:red;'>| Charakter Sperre für 30 Tage / Permanente Charakter Sperre</span>",
+                "5.3 Das Ausnutzen von Admin-Rechten zum eigenen Vorteil ist untersagt. <span style='color:red;'>| Charakter Sperre für 30-60 Tage / Permanente Charakter Sperre</span>",
+                "5.4 Das Verbreiten von persönlichen Informationen anderer Spieler ist verboten. <span style='color:red;'>| Charakter Sperre für 30-60 Tage / Permanente Charakter Sperre</span>",
+                "5.5 Das Nutzen von Exploits ist verboten. <span style='color:red;'>| Charakter Sperre für 30-60 Tage / Permanente Charakter Sperre</span>",
+                "5.6 Das Ausnutzen von Bugs zur Spielvorteilnahme ist verboten. <span style='color:red;'>| Charakter Sperre für 30 Tage / Permanente Charakter Sperre</span>",
+                "5.7 Das Umgehen von Server-Sperren ist verboten. <span style='color:red;'>| Charakter Sperre bis permanent</span>",
+                "5.8 Umgehen des Anti-AFK-Systems ist verboten. <span style='color:red;'>| Warn / Charakter Sperre für 3,5,7,14 Tage / Charakter Sperre für 30 Tage / Permanente Charakter Sperre</span>",
+                "5.9 Handlungen, die auf Anstiftung von Hass oder Feindseligkeit in IC und OOC aufgrund von Meinungsverschiedenheiten über Geschlecht, Rasse, sozialen Status, Sprache, Politik usw. abzielen, sind verboten. <span style='color:red;'>| Charakter Sperre für 30-60 Tage / Permanente Charakter Sperre</span>",
+                "5.10 Mehrfache Verstöße gegen die Serverregeln sind verboten. <span style='color:red;'>| Charakter Sperre bis permanent</span>",
+                "5.11 Umgehen von Strafen ist verboten. <span style='color:red;'>| Konto Sperre bis permanent</span>",
+                "5.12 Werbung für andere Projekte ist verboten. <span style='color:red;'>| Charakter Sperre für 30 Tage</span>",
+                "5.13 Alle finanziellen Transaktionen/Vereinbarungen im Zusammenhang mit dem Verkauf von Spielwährung gegen echtes Geld/Eigentum sind verboten. <span style='color:red;'>| Permanente Charakter Sperre</span>",
+                "5.14 Es ist verboten, Spieler anzustiften, um Regeln zu brechen. <span style='color:red;'>| Charakter Sperre für 7-60 Tage</span>"
+            ]
+        },
+        {
+            "heading": "Chat-Regeln",
+            "items": [
+                "6.1 Verwendung von OOC-Informationen im IC-Chat ist untersagt. <span style='color:red;'>| Voice-Mute 60 Minuten / Voice-Mute 120 Minuten / Voice-Mute 180 Minuten / Warn</span>",
+                "6.2 Beleidigende oder scherzhafte Erwähnung von Verwandten ist untersagt. <span style='color:red;'>| Voice-Mute 120-180 Minuten / Warn / Charakter Sperre für 3-7 Tage</span>",
+                "6.3 Verwendung von CapsLock in IC-Chats ist untersagt. <span style='color:red;'>| Text-Mute 30 - 60 Minuten</span>",
+                "6.4 Spam/Fluten von Nachrichten in allen Textchats ist untersagt. <span style='color:red;'>| Text-Mute 60 - 120 Minuten / Text-Mute 180 Minuten / Warn</span>",
+                "6.5 Verwendung von Programmen zur Änderung der Tonhöhe der Stimme ist untersagt. <span style='color:red;'>| Voice-Mute 30 Minuten / Voice-Mute 60 Minuten</span>",
+                "6.6 Laute oder störende Geräusche sind untersagt. <span style='color:red;'>| Voice-Mute 30 - 120 Minuten / Voice-Mute 180 Minuten</span>",
+                "6.7 OOC-Beleidigungen von Spielern sind untersagt. <span style='color:red;'>| Warn / Charakter Sperre für 3-7 Tage</span>"
+            ]
+        },
+        {
+            "heading": "Regeln für globale Chats (/dep, /gov)",
+            "items": [
+                "7.1 Beleidigungen sind verboten. <span style='color:red;'>| Warn / Charakter Sperre für 3-7 Tage</span>",
+                "7.2 MetaGaming/OOC-Informationen sind untersagt. <span style='color:red;'>| Warn</span>",
+                "7.3 Das Schreiben in globale Chats gleichzeitig mit anderen Fraktionen ist untersagt. <span style='color:red;'>| Text-Mute 30 - 120 Minuten</span>",
+                "7.4 Verwendung von CapsLock ist untersagt. <span style='color:red;'>| Text-Mute 120 - 180 Minuten</span>",
+                "7.5 Spam ist untersagt. <span style='color:red;'>| Text-Mute 120 - 180 Minuten</span>"
+            ]
+        },
+        {
+            "heading": "Administration",
+            "items": [
+                "8.1 Sollte ein Administrator anwesend sein, sind jegliche IC Interaktionen zu Pausieren. <span style='color:red;'>| Voice-Mute 5 Minuten</span>",
+                "8.2 Es ist verboten, den Administrator zu unterbrechen oder die Lösung der Situation in irgendeiner Form zu behindern. <span style='color:red;'>| A-Jail 30-120 Minuten</span>",
+                "8.3 Es ist verboten, die Arbeit der Administration zu stören. <span style='color:red;'>| Warn / Charakter Sperre für 3-7 Tage</span>",
+                "8.4 Täuschung der Administration ist verboten. <span style='color:red;'>| Charakter Sperre für 3-30 Tage / Konto Sperre für 30-60 Tage / Permanente Charakter Sperre</span>",
+                "8.5 Es ist verboten, Fehler und Schwachstellen im System vor der Administration zu verbergen. <span style='color:red;'>| Charakter Sperre für 30-60 Tage / Permanente Charakter Sperre Hinweis: Das Verbreiten in solchen Fällen wird als Verbergen betrachtet.</span>",
+                "8.6 Beleidigungen und respektloses Verhalten gegenüber der Administration sind verboten. <span style='color:red;'>| Charakter Sperre 3-7 Tage / Charakter Sperre für 7-14 Tage</span>",
+                "8.7 Es ist verboten, sich als Administrator auszugeben. <span style='color:red;'>| Charakter Sperre für 7-30 Tage</span>"
+            ]
+        },
+        {
+            "heading": "Spenden",
+            "items": [
+                "9.1 Die Spende ist eine völlig freiwillige Spende und verpflichtet die Administration zu nichts.",
+                "9.2 Nach Erhalt der Spendenspielwährung gilt der Dienst als erbracht und ist nicht erstattungsfähig.",
+                "9.3 Durch die Aktivierung von Spendenprivilegien stimmt der Spieler zu, dass bestimmte Bedingungen dieser Dienste geändert oder vollständig entfernt werden können.",
+                "9.4 Im Falle einer Bestrafung gemäß den Serverregeln, bis hin zum permanenten Bann, erfolgt keine Rückerstattung für erbrachte Spendendienste."
+            ]
+        }
+    ]
+}
